@@ -3,4 +3,4 @@ print("Bye World")
 def nino ():
     print('patata')
 
-nino()
+print(f'Carlos tiene una {nino()}')
